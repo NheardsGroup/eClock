@@ -15,18 +15,6 @@ To use eClock in your project, follow these steps:
 2. Integrate the eClock code into your project.
 3. Ensure proper attribution to Nheards Group in your project's documentation or credits section.
 
-## How to Contribute
-
-We welcome contributions to enhance eClock! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a new Pull Request.
-
-## License
-
 eClock is licensed under the MIT License. If you use this project, please provide appropriate credit to Nheards Group and include the license information.
 
 ## Acknowledgement
